@@ -1,0 +1,4 @@
+Customer Status,total_customers,total_revenue,avg_monthly_charge
+Stayed,4720,17632392.12,61.74
+Churned,1869,3684459.82,73.35
+Joined,454,54279.75,42.78
