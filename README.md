@@ -6,7 +6,7 @@ An end-to-end Business Analysis project investigating why customers leave a tele
 
 ## Dashboard Preview
 
-![Telecom Churn Dashboard](TelecomChurnProject\dashboard_preview.png)
+![Telecom Churn Dashboard](TelecomChurnProject/dashboard_preview.png)
 
 ---
 
